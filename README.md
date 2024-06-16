@@ -1,4 +1,4 @@
-## ***<div align="center">Prathamesh Sadashiv Sawant</div>***  
+## ***<div align="center">PrathameshSawant</div>***  
 #### <div align="center">DevOps and Cloud Computing Enthusiast | Big Room Music Producer</div>  
 
 #### 🌐 Socials:
