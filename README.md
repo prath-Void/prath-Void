@@ -1,5 +1,5 @@
-## ***<div align="center">PrathameshSawant</div>***  
-#### <div align="center">DevOps and Cloud Computing Enthusiast | Big Room Music Producer</div>  
+## ***<div align="center">Prathamesh Sawant</div>***  
+#### <div align="center">DevOps and Cloud Computing Enthusiast | Python </div>  
 
 #### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__prathamesh_10__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prathameshsavant) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Prathamesh_10__) 
